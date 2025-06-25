@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<img width="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN5cDMyYXVzZm5ya2txdWx2djFrZDl5aDhlbWN6enc2dzJzNHp4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" />
 
 <a href="https://github.com/9c7r">
   <img src="https://i.imgur.com/tCSJChg.gif" />
